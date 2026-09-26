@@ -13,7 +13,7 @@ import {
   Code2,
   Database,
   FileCode2,
-  Github,
+  GitBranch,
   KeyRound,
   Lock,
   Search,
@@ -84,7 +84,7 @@ export default function DemoPage() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
           <div className="flex items-center gap-3">
             <div className="flex h-9 w-9 items-center justify-center rounded-xl border border-emerald-500/30 bg-emerald-500/10 text-emerald-300">
-              <Github className="h-5 w-5" />
+              <GitBranch className="h-5 w-5" />
             </div>
             <div>
               <div className="text-lg font-semibold">RepoLens</div>
