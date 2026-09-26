@@ -1,8 +1,8 @@
-import './globals.css';
+import "./globals.css";
 
 export const metadata = {
-  title: 'RepoLens',
-  description: 'Understand any codebase. Ask it anything.',
+  title: "RepoLens",
+  description: "Understand any codebase. Ask it anything.",
 };
 
 export default function RootLayout({ children }) {
